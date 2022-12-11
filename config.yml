@@ -1,0 +1,5 @@
+condition_path : "conditions.csv"
+patients_path : "patients.csv"
+careplans_path : "careplans.csv"
+encounters_path : "encounters.csv"
+observations_path: "observations.csv"
