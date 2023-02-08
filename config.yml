@@ -1,5 +1,2 @@
-condition_path : "conditions.csv"
-patients_path : "patients.csv"
-careplans_path : "careplans.csv"
-encounters_path : "encounters.csv"
-observations_path: "observations.csv"
+path: 'C:\zshahpouri\programming1\Final\Lifelines public health dataset\2022\csv\continuous\Participants_Aggregated_Zipcode_Continuous.txt'
+path_general: 'C:\zshahpouri\programming1\Final\Lifelines public health dataset\2022\csv\continuous\Participants_Aggregated_Zipcode_General_Continuous.txt'
