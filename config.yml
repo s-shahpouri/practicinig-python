@@ -1,2 +1,3 @@
 path: 'C:\zshahpouri\programming1\Final\Lifelines public health dataset\2022\csv\continuous\Participants_Aggregated_Zipcode_Continuous.txt'
 path_general: 'C:\zshahpouri\programming1\Final\Lifelines public health dataset\2022\csv\continuous\Participants_Aggregated_Zipcode_General_Continuous.txt'
+geo_path: 'https://public.opendatasoft.com/explore/dataset/georef-netherlands-postcode-pc4/download/?format=geojson&timezone=Europe/Berlin'
